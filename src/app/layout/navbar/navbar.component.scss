@@ -1,0 +1,22 @@
+.navbar {
+    background-color: rgb(77, 76, 76);
+    display: flex;
+    align-self: flex-end;
+    padding: 10px 0px;
+    justify-content: end;
+
+    a {
+        font-size: 20px;
+        font-weight: bolder;
+        margin: 20px;
+        color: white;
+
+    }
+
+    span {
+        font-size: 20px;
+        font-weight: bolder;
+        margin: 20px;
+        color: white;
+    }
+}
